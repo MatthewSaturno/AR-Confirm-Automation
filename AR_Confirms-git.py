@@ -1,4 +1,4 @@
-#Disclaimer: Some of the below code has been copied from StackOverflow posts and customized to render\
+#Disclaimer: Some of the below code has been copied from StackOverflow and other online posts and customized to render\
 #the program.
 
 import csv
